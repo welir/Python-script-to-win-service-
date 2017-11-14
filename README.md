@@ -6,4 +6,4 @@
 # Usage
     1. Replace [service_name] variable to you win service name.
     2. Replace loop func.
-    3. Run in cmd:  python you_script install
+    3. Run in cmd as admin:  python you_script install
