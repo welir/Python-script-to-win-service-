@@ -3,7 +3,7 @@
     - 2.7
     - pypy-5.7.1
  install:
-    - pip install pywin
+    - pip install pywin --no-cache-dir
     - pip install servicemanager
     - pip install win32serviceutil
  script:
