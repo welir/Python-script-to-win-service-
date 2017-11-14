@@ -3,8 +3,7 @@
     - 2.7
     - pypy-5.7.1
  install:
-    - pip install win32event
-    - pip install win32service
+    - pip install pywin32event
     - pip install servicemanager
     - pip install win32serviceutil
  script:
